@@ -68,7 +68,7 @@ Each challenge maps directly to a Top 10 vulnerability:
 
 ## 🌐 Connect
 
-- HackerOne: [@skyblue225](https://hackerone.com/skyblue225)
+- HackerOne: [@snowcrash225](https://hackerone.com/skyblue225)
 - GitHub: [`snowcrash-dev`](https://github.com/snowcrash-dev)
 - Inspired by *Snow Crash* and a love for engineering secure systems.
 
